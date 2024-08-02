@@ -1,0 +1,31 @@
+.blueText {
+    color: blue;
+}
+.redText {
+    color: red;
+}
+.redBox {
+    height: 100px;
+    width: 100px;
+    background-color: #00BCD4;
+    padding: 5px;
+    margin-left: 100px;
+}
+
+.postBox {
+    background-color: deepskyblue;
+}
+
+.smallTitle {
+    color:darkgreen;
+    font-size: x-large;
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
+.smallText {
+    color:lime;
+    font-size:small;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
