@@ -13,7 +13,7 @@
 }
 
 .postBox {
-    background-color: deepskyblue;
+    background-color: #00bfff;
 }
 
 .smallTitle {
@@ -21,11 +21,12 @@
     font-size: x-large;
     font-family:'Courier New', Courier, monospace;
     padding: 10px;
+    border: 10px ridge red;
 }
 
 .smallText {
-    color:lime;
-    font-size:small;
+    color:#00ff00;
+    font-size:larger;
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
 }
